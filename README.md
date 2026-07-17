@@ -7,10 +7,8 @@ This repository contains a Jupyter Notebook that analyzes the impact of selectiv
 - [Dataset Description](#dataset-description)
 - [Key Findings](#key-findings)
 - [Visualization](#visualization)
-- [Requirements](#requirements)
-- [How to Run](#how-to-run)
 
----
+
 
 ## Project Overview
 Selective poaching for ivory often targets elephants with larger tusks. This project analyzes a dataset of male elephants to determine if there has been a statistically noticeable decrease in average tusk sizes between the mid-20th century and the early 21st century[cite: 1].
